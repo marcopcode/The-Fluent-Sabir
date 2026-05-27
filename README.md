@@ -4,4 +4,4 @@
 Fewer understand a literate Corsair.  
 Everyone understands a sharpened cutlass.”**
 
-Resources about ISAs, opcodes and bytecodes - coming soon
+Learning resources and official docs about ISAs, opcodes and bytecodes - coming soon
